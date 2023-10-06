@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 import SimpleGUICS2Pygame.simpleguics2pygame  as simplegui
 height=500
 width=700
